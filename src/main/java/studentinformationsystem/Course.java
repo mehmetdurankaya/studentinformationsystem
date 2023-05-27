@@ -1,4 +1,4 @@
-package ogrencibilgisistemi;
+package studentinformationsystem;
 
 public class Course {
     Teacher courseTeacher;
